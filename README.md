@@ -1,2 +1,2 @@
 # p-bit
-Project P-bit angular
+Project P-bit angularjs and node.js
